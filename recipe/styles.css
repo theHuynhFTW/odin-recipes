@@ -1,0 +1,41 @@
+/* style */
+body {
+    background-color: rgb(50, 0, 90);
+}
+
+.header {
+    color: rgb(198, 137, 255);
+    font-family: "Brush Script MT", cursive;
+}
+
+.one {
+    font-size: 55px;
+}
+
+.three {
+    font-size: 30px;
+}
+
+.text {
+    font-size: 20px;
+    color: rgb(55, 162, 255);
+}
+
+
+a:link {
+    color:rgb(87, 85, 255)
+}
+a:visited {
+    color:rgb(255, 153, 0)
+}
+a:hover {
+    color:rgb(9, 255, 0)
+}
+a:active {
+    color:rgb(93, 0, 180)
+}
+
+a {
+    font-size: 30px;
+    font-family: Tahoma, "Times New Roman", sans-serif;
+}
